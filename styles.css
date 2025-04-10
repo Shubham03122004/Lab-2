@@ -1,9 +1,12 @@
 /* General Styles */
 body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    line-height: 1.6;
+   margin: 0;
+  font-family: Arial, sans-serif;
+  background-image: url('camera.jfif'); 
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: #fff; 
   }
   
   header {
@@ -29,8 +32,12 @@ body {
   }
   
   main {
-    padding: 20px;
-    text-align: center;
+  background-image: url('camera.jfif');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 40px;
+  color: #fff;
   }
   
   footer {
